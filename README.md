@@ -1,7 +1,7 @@
 <!-- ============ HEADER BANNER ============ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Gourav&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Business%20Analysis%20%7C%20Strategy%20%26%20Consulting%20%7C%20Operations&descAlignY=60&descSize=18" width="100%" alt="Gourav banner"/>
+
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2C9CDB&center=true&vCenter=true&width=700&lines=Turning+messy+business+problems+into+clear+decisions;B.Tech+%40+Delhi+Technological+University+(DTU)+'28;Excel+%E2%80%A2+SQL+%E2%80%A2+Power+BI+%E2%80%A2+Python;Open+to+Business+Analyst+%26+Strategy+Internships" alt="Typing SVG" />
